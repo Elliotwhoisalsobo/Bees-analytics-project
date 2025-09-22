@@ -4,12 +4,12 @@
 This project was developed in collaboration with Burgos & Howest university to measure and analyze the health of beehives using IoT sensor data. The focus is on applying time-series analysis and regression techniques to better understand hive conditions and detect potential anomalies.
 
 Disclaimer:
-The data used in this project originates from Appalachain state university and was permitted to use on this project on request I can therefore not publish it publicly.
+The data used in this project originates from Appalachain state university and was permitted to use on this project on request I can therefore not provide the data that this project.
 
 ## 🎯 Objectives  
-- Clean and preprocess IoT sensor data from beehives.  
-- Explore time-series characteristics (autocorrelation, seasonal trends).  
-- Build regression models to forecast and explain hive conditions.  
+- Clean & preprocess IoT sensor data from beehives.  
+- Explore time-series characteristics (correlation, seasonal trends, overall bee behaviour).  
+- Build regression models to forecast and explain hive conditions & health.  
 
 ## 🛠️ Tech Stack  
 - **Python**: Data processing and modeling  
