@@ -1,4 +1,10 @@
-# Beehive Analytics
+<p align="center">
+  <img src="images/howest.png" alt="Howest University of Applied Sciences" height="120">
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/university-of-burgos.jpg" alt="University of Burgos" height="120">
+</p>
+
+<h1 align="center">Beehive Analytics</h1>
 
 Decision-support research for data-driven beehive monitoring.
 
